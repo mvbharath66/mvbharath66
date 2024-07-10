@@ -1,8 +1,7 @@
 - 👋 Hi, I’m M V Bharath
-- 👀 I’m interested in Python Web Development 
+- 👀 I’m interested in Python Full-Stack Developer 
 - 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : mvbharath66@gmail.com
 
 <!---
 mvbharath66/mvbharath66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
