@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mvbharath66
-- 👀 I’m interested in python web development 
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m M V Bharath
+- 👀 I’m interested in Python Web Development 
+- 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
